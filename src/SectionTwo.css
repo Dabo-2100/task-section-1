@@ -1,0 +1,18 @@
+.sectionTwo {
+    min-height: 75vh;
+    width: 100%;
+}
+
+.sectionTwo .about {
+    text-transform: uppercase;
+    color: rgb(97, 212, 231);
+    font-size: 20px;
+}
+
+.sectionTwo .about span {
+    
+    width: 63px;
+    height: 3px;
+    background-color: rgb(97, 212, 231);
+    margin-right: 20px;
+}

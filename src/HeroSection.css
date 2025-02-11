@@ -1,0 +1,21 @@
+.heroSection {
+    background-image: url("./assets/HeroSection-bg.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.heroSection #offcanvasExample {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.heroSection #offcanvasExample p {
+    color: white;
+    font-size: 2rem;
+}
+
+.heroSection h1{
+    font-size: 146px;
+}
