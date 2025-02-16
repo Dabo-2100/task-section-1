@@ -12,7 +12,7 @@ export default function HeroSection() {
                     <p>Page 3</p>
                 </div>
             </header>
-            <h1 className="text-white col-12 text-center">Creative Stories</h1>
+            <h1 className="text-white col-12 text-center">Creative Stories From Dabo</h1>
         </div>
     )
 }
